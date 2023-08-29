@@ -1,7 +1,10 @@
+---
 layout: post
 title: "build your own cloud IDE"
 date: 2023-08-27 09:21:00 -0000
 categories: vim tmux
+---
+
 # 定制自己专属的云端开发环境
 ---
 # 目标🎯
