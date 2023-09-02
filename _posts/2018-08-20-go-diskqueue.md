@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "go-diskqueue"
+title: "nsq磁盘文件队列实现"
 ---
 
 # go-diskqueue
