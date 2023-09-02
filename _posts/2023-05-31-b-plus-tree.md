@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "B+树"
+title: "B+树与数据库索引"
 date: 2023-05-31 18:14:00 -0000
 tags: b+树 database
 ---

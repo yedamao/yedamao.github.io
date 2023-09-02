@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "build your own cloud IDE"
+title: "打造自己专属的开发环境"
 date: 2023-08-27 09:21:00 -0000
 tags: vim tmux
 ---
 
-# 定制自己专属的云端开发环境
----
 # 目标🎯
 - 使用VIM进行所有文本编辑(心中有剑)
 - 开始拥有一套专属定制终端开发环境
