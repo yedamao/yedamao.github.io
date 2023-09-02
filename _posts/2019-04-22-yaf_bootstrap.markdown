@@ -1,3 +1,8 @@
+---
+layout: post
+title: "yaf框架的Bootstrap机制"
+---
+
 # yaf框架的Bootstrap机制
 
 Bootstrap是用来在Application运行(run)之前做一些初始化工作的机制.
